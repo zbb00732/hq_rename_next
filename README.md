@@ -1,0 +1,2 @@
+# hq_rename_next
+timestamps.txt に記録されたプレイヤー名をリネームし、Youtube概要欄向けの文章を生成するツール
