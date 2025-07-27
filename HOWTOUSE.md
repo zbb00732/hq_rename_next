@@ -11,8 +11,8 @@ timestamps.txt に記録されたプレイヤー名をリネームし、Youtube�
 3. BOT から出力された result ファイルを選択
 4. 以下のファイルが生成されます：
 
-   - `timestamps_rename_en.txt`（英語）
-   - `timestamps_rename_jp.txt`（日本語）
+   - `(yyyymmdd)_youtube_description_en.txt`（英語）
+   - `(yyyymmdd)_youtube_description_jp.txt`（日本語）
 
 ## 注意事項
 
